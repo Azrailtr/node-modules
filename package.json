@@ -1,0 +1,13 @@
+{
+  "name": "node-modules-scalper",
+  "version": "0.1.0",
+  "description": "Minimal-error crypto scalper bot skeleton",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
